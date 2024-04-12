@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+C-family enjoyer <br>
+Python hater ( the uni force me to use it )
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistrzegiptu&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
